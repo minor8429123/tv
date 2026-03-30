@@ -1,7 +1,9 @@
 #EXTM3U
 tvg-url="https://ghfast.top/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz" 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
-http://t.061899.xyz/tl/js/js.php?id=tvbfct
+http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
 rtmp://demo2.anj365.com/live/xiangjiaoge-fc
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
@@ -9,11 +11,7 @@ http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://120.238.5.44:1698/hls/83/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
-http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
-http://mytv.cdn.loc.cc/o12.php?id=fct
+http://hk.9kds.com/tvbfc/  
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
 rtmp://118.145.86.104/live/yifatv-jade01
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",翡翠台
@@ -22,8 +20,6 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",TVB PLUS
 http://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港澳台",TVB PLUS
-http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/无线新闻台.png" group-title="港澳台",无线新闻台
 http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/无线新闻台.png" group-title="港澳台",无线新闻台
@@ -32,6 +28,8 @@ http://r.jdshipin.com/CkuBd
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/无线新闻台.png" group-title="港澳台",无线新闻台
 http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/无线新闻台.png" group-title="港澳台",无线新闻台
+http://hk.9kds.com/tvbwxxw/
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/中天新闻台.png" group-title="港澳台",中天新闻台
 http://119.91.7.169:2026/TW.php?id=中天新闻台
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/中天新闻台.png" group-title="港澳台",中天新闻台
