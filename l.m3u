@@ -67,6 +67,12 @@ webview://https://www.gdtv.cn/tvChannelDetail/45
 http://mefrp_tunnel.atxa.top:18429/gdtv.php?id=54
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东",广东少儿
 webview://https://m.gdtv.cn/tvChannelDetail/54
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
+http://mefrp_tunnel.atxa.top:18429/guangzhou.php?id=gzzh
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
+http://mefrp_tunnel.atxa.top:18429/guangzhou.php?id=gzxw
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="广东",南国都市
+http://mefrp_tunnel.atxa.top:18429/guangzhou.php?id=ngds
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV-1 综合.png" group-title="央视",CCTV-1 综合
 http://mefrp_tunnel.atxa.top:18429/ysxw.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV-1 综合.png" group-title="央视",CCTV-1 综合
