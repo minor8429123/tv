@@ -324,6 +324,8 @@ https://lhttp-hw.qtfm.cn/live/1260/64k.mp3
 #EXTINF:-1 tvg-name="广东音乐之声" tvg-logo="https://live.fanmingming.com/tv/广东音乐之声.png" group-title="收音机",广东音乐之声
 https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 #EXTINF:-1 tvg-name="谷豆翡翠台" group-title="测试",谷豆翡翠台
-http://172.16.149.22:9090/live/1350_7500.m3u8&socks5=150.138.227.41:2447
+http://A/ku9/py/liveproxy.py?u=http://172.16.149.22:9090/live/1350_7500.m3u8&socks5=150.138.227.41:2447
 #EXTINF:-1 tvg-name="谷豆翡翠台" group-title="测试",谷豆翡翠台
-http://172.16.149.22:9090/live/1350_7500.m3u8&socks5=150.138.227.41:2445
+http://A/ku9/py/liveproxy.py?http://172.16.149.22:9090/live/1350_7500.m3u8&socks5=150.138.227.41:2445
+#EXTINF:-1 tvg-name="CCTV1" group-title="测试",CCTV1
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226917/1.m3u8?fmt=ts2hls&socks5=192.144.137.222:1552
