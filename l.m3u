@@ -324,6 +324,8 @@ https://lhttp-hw.qtfm.cn/live/1260/64k.mp3
 #EXTINF:-1 tvg-name="广东音乐之声"  group-title="收音机",广东音乐之声
 https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 #EXTINF:-1 tvg-name="香港电台第一台"  group-title="收音机",香港电台第一台
-https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 #EXTINF:-1 tvg-name="香港电台第二台"  group-title="收音机",香港电台第二台
-https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+#EXTINF:-1 tvg-name="香港新城电台知讯台"  group-title="收音机",香港新城电台知讯台
+https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
