@@ -127,15 +127,15 @@ http://175.154.151.98:808/hls/1/index.m3u8
 webview://https://www.yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://tb.zbds.top/logo/CCTV-1 综合.png" group-title="央视",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2
 http://8.138.224.117:38429/ysxw.php?id=cctv2
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2
 http://183.62.8.58:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2
 http://36.110.54.118:866/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2
 http://112.123.243.37:50085/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV-2 财经.png" group-title="央视",CCTV-2
 webview://https://www.yangshipin.cn/tv/home?pid=600001800
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://tb.zbds.top/logo/CCTV-3 综艺.png" group-title="央视",CCTV-3 综艺
 http://183.62.8.58:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
