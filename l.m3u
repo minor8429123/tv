@@ -323,6 +323,10 @@ https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
 https://lhttp-hw.qtfm.cn/live/1260/64k.mp3
 #EXTINF:-1 tvg-name="广东音乐之声"  group-title="收音机",广东音乐之声
 https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+#EXTINF:-1 tvg-name="江门旅游广播"  group-title="收音机",江门旅游广播
+https://ytcast.radio.cn/72/radios/21986/index_21986.m3u8?type=1&key=659f19dbff8fd6ea9da9ff669328698e&time=6a4c44d1
+#EXTINF:-1 tvg-name="鹤山电台"  group-title="收音机",鹤山电台
+https://ytcast.radio.cn/57/radios/21464/index_21464.m3u8?type=1&key=5796725e3f1ab89792e50035ce51b709&time=6a4c6b3b
 #EXTINF:-1 tvg-name="香港电台第一台"  group-title="收音机",香港电台第一台
 https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 #EXTINF:-1 tvg-name="香港电台第二台"  group-title="收音机",香港电台第二台
