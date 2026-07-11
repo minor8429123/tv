@@ -383,41 +383,41 @@ https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
 #EXTINF:-1 tvg-name="香港新城电台知讯台"  group-title="收音机",香港新城电台知讯台
 https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.zbds.top/logo/cctv1.png" group-title="酷9",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.zbds.top/logo/cctv1.png" group-title="酷9(央视)",CCTV1
 http://A/ku9/js/ystp.js?id=30a8228c89a864b186be13047a4b3b60&offset=445839094
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/cctv2.png" group-title="酷9",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/cctv2.png" group-title="酷9(央视)",CCTV2
 http://A/ku9/js/ystp.js?id=6b119e785733a4fc2ffbf44816187f25&offset=445267700
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://tb.zbds.top/logo/cctv3.png" group-title="酷9",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://tb.zbds.top/logo/cctv3.png" group-title="酷9(央视)",CCTV3
 http://A/ku9/js/ystp.js?id=2e8e13f48095699fbd6a8cfccf32c3aa&offset=445839194
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/cctv4.png" group-title="酷9",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/cctv4.png" group-title="酷9(央视)",CCTV4
 http://A/ku9/js/ystp.js?id=33947a195f5a20e75ae06e19078e07c8&offset=445839304
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://tb.zbds.top/logo/cctv5.png" group-title="酷9",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://tb.zbds.top/logo/cctv5.png" group-title="酷9(央视)",CCTV5
 http://A/ku9/js/ystp.js?id=3e1b6788736d5a9507c7f9f627ff04f8&offset=445839442
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/cctv5+.png" group-title="酷9",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/cctv5+.png" group-title="酷9(央视)",CCTV5+
 http://A/ku9/js/ystp.js?id=3758a19e715b8d107bb54ff9168129cf&offset=445839174
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://tb.zbds.top/logo/cctv7.png" group-title="酷9",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://tb.zbds.top/logo/cctv7.png" group-title="酷9(央视)",CCTV7
 http://A/ku9/js/ystp.js?id=226c22bb52f9478ea6d51c4d3bd8b897&offset=445838692
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://tb.zbds.top/logo/cctv8.png" group-title="酷9",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://tb.zbds.top/logo/cctv8.png" group-title="酷9(央视)",CCTV8
 http://A/ku9/js/ystp.js?id=a440bc9fc17f1be284ea8cf14da81122&offset=445839238
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://tb.zbds.top/logo/cctv9.png" group-title="酷9",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://tb.zbds.top/logo/cctv9.png" group-title="酷9(央视)",CCTV9
 http://A/ku9/js/ystp.js?id=7697aea39cca172b3cbf3dd9bbdc7ea5&offset=445839256
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://tb.zbds.top/logo/cctv10.png" group-title="酷9",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://tb.zbds.top/logo/cctv10.png" group-title="酷9(央视)",CCTV10
 http://A/ku9/js/ystp.js?id=6eddd73bd2594e0cb80a91866820d6d2&offset=445839228
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/cctv11.png" group-title="酷9",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/cctv11.png" group-title="酷9(央视)",CCTV11
 http://A/ku9/js/ystp.js?id=1e68ad19b53373ed334577414189fd0d&offset=445839214
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://tb.zbds.top/logo/cctv12.png" group-title="酷9",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://tb.zbds.top/logo/cctv12.png" group-title="酷9(央视)",CCTV12
 http://A/ku9/js/ystp.js?id=cd122318fc504d62dd68149d2f129af9&offset=445839414
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://tb.zbds.top/logo/cctv13.png" group-title="酷9",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://tb.zbds.top/logo/cctv13.png" group-title="酷9(央视)",CCTV13
 http://A/ku9/js/ystp.js?id=166560daebe7afc5dd887496e7b8d6b9&offset=445839286
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://tb.zbds.top/logo/cctv14.png" group-title="酷9",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://tb.zbds.top/logo/cctv14.png" group-title="酷9(央视)",CCTV14
 http://A/ku9/js/ystp.js?id=5189195c043059c73e31b994c23ad528&offset=445839276
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://tb.zbds.top/logo/cctv15.png" group-title="酷9",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://tb.zbds.top/logo/cctv15.png" group-title="酷9(央视)",CCTV15
 http://A/ku9/js/ystp.js?id=44b27397905bd32833285a9d8d37daa6&offset=445839268
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/cctv16.png" group-title="酷9",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/cctv16.png" group-title="酷9(央视)",CCTV16
 http://A/ku9/js/ystp.js?id=5e371361c10b8d49611c3ad8b2eb363a&offset=445839140
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/cctv17.png" group-title="酷9",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/cctv17.png" group-title="酷9(央视)",CCTV17
 http://A/ku9/js/ystp.js?id=8eae18e5610069468facb496c5b65404&offset=445839302
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/cctv4K.png" group-title="酷9",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/cctv4K.png" group-title="酷9(央视)",CCTV4K
 http://A/ku9/js/ystp.js?id=6134a64ba55c4ba1e8fec745a699066e&offset=445474292
-#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://tb.zbds.top/logo/cctv16.png" group-title="酷9",CCTV16 4K
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://tb.zbds.top/logo/cctv16.png" group-title="酷9(央视)",CCTV16 4K
 http://A/ku9/js/ystp.js?id=cGE5h7iy&offset=445267702
