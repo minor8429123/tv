@@ -383,6 +383,22 @@ https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
 #EXTINF:-1 tvg-name="香港新城电台知讯台"  group-title="收音机",香港新城电台知讯台
 https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="测试接口（央视卫视）",CCTV-1
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZp1MyIVT1MEdz0TV%3DQ
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="测试接口（央视卫视）",CCTV-2
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZp1MyIWT1kEdz0TV%3DQ
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="测试接口（央视卫视）",CCTV-3
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZp1MyIXT1kEdz0TV%3DQ
+#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="测试接口（央视卫视）",CCTV-4
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZp1MyIkT1MEdz0TV%3DQ
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="测试接口（央视卫视）",CCTV-5
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZp1MyIlT1MEdz0TV%3DQ
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="测试接口（央视卫视）",CCTV-5+
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZp1MyIlTCh2cYRXTiVEVx40T9EQP%3D%3D
+#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="测试接口（央视卫视）",CCTV-13
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZp1MyIVTNRWdUJjTPFTQ90
+#EXTINF:-1 tvg-name="CCTV-1（咪咕）" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="测试接口（央视卫视）",CCTV-1（咪咕）
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke6V1T0MEeU5XVPVGR1t0TjRkNU1XQNdzQygUTnRENE1zYNBka9E
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="酷9（央视）",CCTV-1
 http://A/ku9/js/ystp.js?id=30a8228c89a864b186be13047a4b3b60&offset=445839094
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="酷9（央视）",CCTV-2
