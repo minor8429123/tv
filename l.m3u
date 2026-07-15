@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://112.92.129.96:9898/hls/91/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://129.211.14.102:27777/api.php?token=7093b51748c6db649d3e2de81b34940f&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNNER3FDToJ2c5NWOZ11M1FlYORUMB9TP%3D0
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
