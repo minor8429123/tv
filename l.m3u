@@ -460,4 +460,6 @@ https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
 #EXTINF:-1 tvg-name="香港新城电台知讯台"  group-title="收音机",香港新城电台知讯台
 https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台"  group-title="测试",翡翠台
-http://n1.minor8429.bot.cd:8081/tvb/1/hls.m3u8
+http://192.168.3.138:8081/tvb/1/hls.m3u8
+#EXTINF:-1 tvg-name="翡翠台"  group-title="测试",翡翠台
+http://192.168.3.138:8081/gdms/1/hls.m3u8
