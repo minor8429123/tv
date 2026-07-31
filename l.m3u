@@ -157,8 +157,6 @@ http://36.110.54.118:866/hls/1/index.m3u8
 http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://175.154.151.98:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-webview://https://www.yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://43.226.47.21:28429/ysp.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -275,8 +273,6 @@ http://183.62.8.58:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.110.54.118:866/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://tb.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10 科教
 http://112.123.243.37:50085/tsfile/live/0011_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://tb.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10 科教
-webview://https://www.yangshipin.cn/tv/home?pid=600001805
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://43.226.47.21:28429/ysp.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
