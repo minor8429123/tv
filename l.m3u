@@ -99,8 +99,6 @@ http://43.226.47.21:28429/gdtv.php?id=53
 http://112.92.129.96:9898/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://tb.zbds.top/logo/广东影视.png" group-title="广东",广东影视
 http://113.82.250.238:4022/rtp/239.77.0.217:5146
-#EXTINF:-1 tvg-name="广东影视（备用）" tvg-logo="https://tb.zbds.top/logo/广东影视.png" group-title="广东",广东影视（备用）
-http://gdtv.minor8429.cc.cd/?id=53
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://tb.zbds.top/logo/广东新闻.png" group-title="广东",广东新闻
 http://43.226.47.21:28429/gdtv.php?id=45
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://tb.zbds.top/logo/广东新闻.png" group-title="广东",广东新闻
@@ -387,6 +385,8 @@ http://gdtv.minor8429.cc.cd/?id=48
 http://gdtv.minor8429.cc.cd/?id=44
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="备用",广东体育
 http://gdtv.minor8429.cc.cd/?id=47
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://tb.zbds.top/logo/广东影视.png" group-title="备用",广东影视
+http://gdtv.minor8429.cc.cd/?id=53
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://tb.zbds.top/logo/广东新闻.png" group-title="备用",广东新闻
 http://gdtv.minor8429.cc.cd/?id=45
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://tb.zbds.top/logo/广东少儿.png" group-title="备用",广东少儿
