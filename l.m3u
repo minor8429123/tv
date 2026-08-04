@@ -377,8 +377,6 @@ http://59.110.175.70:24567/PLTV/651/224/3221226655/1.m3u8
 http://183.62.8.58:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://tb.zbds.top/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://59.110.175.70:24567/PLTV/651/224/3221226870/1.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://tb.zbds.top/logo/江苏体育休闲.png" group-title="体育",江苏体育休闲
-http://jiangsu.minor8429.cc.cd/?id=jsty
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="备用",广东民生
 http://gdtv.minor8429.cc.cd/?id=48
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="备用",广东珠江
@@ -433,6 +431,8 @@ https://ysp.9kds.click/?id=cctv16
 https://ysp.9kds.click/?id=cctv17
 #EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="备用",江苏卫视4k
 http://jiangsu.minor8429.cc.cd/?id=jsws4k
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://tb.zbds.top/logo/江苏体育休闲.png" group-title="备用",江苏体育休闲
+http://jiangsu.minor8429.cc.cd/?id=jsty
 #EXTINF:-1 tvg-name="FM901"  group-title="收音机",FM901
 https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_44_audio.m3u8
 #EXTINF:-1 tvg-name="FM924"  group-title="收音机",FM924
