@@ -21,6 +21,8 @@ http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 http://116.77.239.26:44300/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://gdsztw.sohu.blog:44300/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
+webview://https://m.456iptv.com/?act=play&token=b94740c16fe4ce07160681da7ee3fac2&tid=gt&id=5
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://tb.zbds.top/logo/翡翠台4K.png" group-title="港澳台",翡翠台4K
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://tb.zbds.top/logo/翡翠台4K.png" group-title="港澳台",翡翠台4K
