@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://www.kaniptv.cn/uadl.php?etoken=Rg1YZ344RWJnWy9b7sGS2sw1xiTsvFBjneyf%2BZSHNRckr2e%2Fn%2BIKiwVmDDmBao8BkqDYLoV8IsMuKuHaFljXa0FvU4zpLJdO7WJ9%2BjOsJG%2BYzxPTq5PJzgUd1c884Fd3R9Kg1BDOtLfCCNEXPSq1Qp0FLDDzThYiuTEgp79x%2F1KA4V00J9hgUamUa9zrH0vL1Tg2EA6oIRQAC6i2spLw4ug7YCuDJyKU8dseVSQI%2F81EvVyA7sspBoJxOpnPoUogxGv7x0MRAXsEgVkOMvTTVjuthsnxYms0E%2BvnBribEnt9OmZsK85sLuTWsnPy3fRxl3rKDcBoqoTXELtU7pjh%2FS%2BSFnlYdVHOlH5lvHvNMwChLTynuSER6C7Ocue9u06HrLeKFOThI8ZyAtbxyOwGzg%3D%3D
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://120.198.86.186:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
@@ -38,6 +40,8 @@ http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://tb.zbds.top/logo/明珠台.png" group-title="港澳台",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
+http://www.kaniptv.cn/uadl.php?etoken=S9f%2BkmQQ%2FOgLAQKZK%2FmAWXk8taFx8hPvTzSGIatwGmACNuvbzWX2ldMkYGQuZDiE%2FSO47DZvM%2Fp9aeUcsSCwY2GGBjUTdK%2F%2BOHBJQf1imzo%2BqCbCsAZgZ8dwqvjuMaf0X1I0xAo%2FzPT5CYic5820%2FsbRfJE%2B4WSzw3DrOiUBTYukoJkGgJqgG%2BKmC45AUPhmT%2Brszwivf6AfBSwVaCZRYWFNUI5Aecj9mouCMt%2Bz0i0R8Fg5MQWGJsfqt%2FK%2B0e%2FvH1K5H5mf3%2F9b3mlfope0qgZinMdZrThq1m0r3vYfVH3%2FqoIZA9Ph1%2BsMjpGYCD%2B8RfLYtvc%2FIVvL8plwbo4%2FLH44vsKjkRJoKUmsbsoatP1W1KH%2BamZuv%2B03NXXkBpeH%2FhSHx1eWOhdBURNPmbUcfaBDH0MzTVC4QLDyZQpltdeCvAFxBu3fpt498qVsnkqj
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
 https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/wxxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
@@ -45,8 +49,6 @@ https://cdn6.163189.xyz/163189/wxxw
 http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
-https://cdn.qd.je/163189.php?id=wxxw
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://tb.zbds.top/logo/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
 http://112.92.129.96:9898/hls/128/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://tb.zbds.top/logo/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
@@ -57,6 +59,8 @@ http://rihou.cc:555/tv/[Pd]中天新闻
 http://112.92.129.96:9898/hls/135/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
 http://43.226.47.21:28429/gdtv.php?id=48
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
+http://lsa.familyds.com:8188/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
 http://120.198.86.186:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
@@ -74,6 +78,8 @@ http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://43.226.47.21:28429/gdtv.php?id=44
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
+http://lsa.familyds.com:8188/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://120.198.86.186:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://120.198.84.146:9901/tsfile/live/1012_1.m3u8
@@ -89,6 +95,8 @@ http://119.129.231.142:4022/rtp/239.77.0.1:5146
 http://183.62.8.58:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="广东",广东体育
 http://43.226.47.21:28429/gdtv.php?id=47
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="广东",广东体育
+http://lsa.familyds.com:8188/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="广东",广东体育
 http://120.198.84.146:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="广东",广东体育
@@ -461,3 +469,5 @@ https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
 #EXTINF:-1 tvg-name="香港新城电台知讯台"  group-title="收音机",香港新城电台知讯台
 https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1"  group-title="测试",CCTV1
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
