@@ -60,6 +60,8 @@ http://112.92.129.96:9898/hls/135/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
 http://43.226.47.21:28429/gdtv.php?id=48
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
+,http://125.94.174.157:19999/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
 http://lsa.familyds.com:8188/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="广东",广东民生
 http://120.198.86.186:9901/tsfile/live/1013_1.m3u8
@@ -77,6 +79,8 @@ http://119.129.231.142:4022/rtp/239.77.0.225:5146
 http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://43.226.47.21:28429/gdtv.php?id=44
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
+http://125.94.174.157:19999/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://lsa.familyds.com:8188/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
