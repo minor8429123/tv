@@ -8,6 +8,8 @@ http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://120.238.87.243:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
+https://cdn6.cc.cd/163189/fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://112.92.129.96:9898/hls/91/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://tb.zbds.top/logo/翡翠台4K.png" group-title="港澳台",翡翠台4K
 https://cdn.qd.je/163189/fct4k
@@ -20,7 +22,7 @@ http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://tb.zbds.top/logo/明珠台.png" group-title="港澳台",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
-http://www.kaniptv.cn/uadl.php?etoken=S9f%2BkmQQ%2FOgLAQKZK%2FmAWXk8taFx8hPvTzSGIatwGmACNuvbzWX2ldMkYGQuZDiE%2FSO47DZvM%2Fp9aeUcsSCwY2GGBjUTdK%2F%2BOHBJQf1imzo%2BqCbCsAZgZ8dwqvjuMaf0X1I0xAo%2FzPT5CYic5820%2FsbRfJE%2B4WSzw3DrOiUBTYukoJkGgJqgG%2BKmC45AUPhmT%2Brszwivf6AfBSwVaCZRYWFNUI5Aecj9mouCMt%2Bz0i0R8Fg5MQWGJsfqt%2FK%2B0e%2FvH1K5H5mf3%2F9b3mlfope0qgZinMdZrThq1m0r3vYfVH3%2FqoIZA9Ph1%2BsMjpGYCD%2B8RfLYtvc%2FIVvL8plwbo4%2FLH44vsKjkRJoKUmsbsoatP1W1KH%2BamZuv%2B03NXXkBpeH%2FhSHx1eWOhdBURNPmbUcfaBDH0MzTVC4QLDyZQpltdeCvAFxBu3fpt498qVsnkqj
+https://cdn6.cc.cd/163189/wxxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
 https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/wxxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://tb.zbds.top/logo/无线新闻台.png" group-title="港澳台",无线新闻台
